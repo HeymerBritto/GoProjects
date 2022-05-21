@@ -3,7 +3,13 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello World!")
+
+	hello := "Hello"
+	world := "World"
+	numero := 10
+	floaat := 10.5
+
+	fmt.Printf("%s %s %d %f", hello, world, numero, floaat)
 }
 
 //Create a project folder
