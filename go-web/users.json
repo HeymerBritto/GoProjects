@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1, 
+        "nome" : "Zessica Cruz", 
+        "sobrenome" : "Cruz", 
+        "email" : "jessica.cruz@gmail.com", 
+        "idade" : 30, 
+        "altura" : 1.70, 
+        "ativo" : true, 
+        "dataCriacao" : "29/05/2022"
+    },
+    {
+        "id" : 2, 
+        "nome" : "Heymer", 
+        "sobrenome" : "Britto", 
+        "email" : "heymer.britto@gmail.com", 
+        "idade" : 31, 
+        "altura" : 1.84, 
+        "ativo" : true, 
+        "dataCriacao" : "29/05/2022"
+    }
+]
